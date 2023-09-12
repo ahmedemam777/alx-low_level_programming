@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _isalpha - check if input is alohabetical character or not
+ * @c: the c to be checked
  * Return: 1 if alphabet and 0 otherwise
  */
 
