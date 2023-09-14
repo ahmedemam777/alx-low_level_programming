@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * mul - give the result of multiplication of two number 
  * @a: first number given 
