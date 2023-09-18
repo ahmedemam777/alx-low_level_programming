@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void reset_to_98 - take pointer as int and change the value
+ * reset_to_98 - take pointer as int and change the value
  * @n: in the check
  * Return: 0 in succision
  */
