@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * swap_int - swap values of two vars with each others
  *@a: first number
