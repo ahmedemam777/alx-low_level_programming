@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts - print string followed by new line 
+ * _puts - print string followed by new line
  * @str: string to be printed
  * Return: 0 always
  */
