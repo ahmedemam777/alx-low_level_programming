@@ -1,0 +1,10 @@
+#include "main.h"
+/**
+ * print_rev - print string in reverse direction
+ * @s: string to be reversed
+ * Return: 0 always
+ */
+void print_rev(char *s)
+{
+  int x, i;
+  while(
