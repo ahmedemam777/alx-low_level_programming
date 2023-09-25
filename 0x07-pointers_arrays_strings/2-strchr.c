@@ -3,6 +3,7 @@
  * _strchr - search for a character in string 
  * @c: the character to be searched
  * @s: string whiched searched
+ * Return: a pointer of the first occurrence
  */
 
 char *_strchr(char *s, char c)
