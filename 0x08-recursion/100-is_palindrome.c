@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strlen_recursion - print length of string
- * @s: string 
+ * @s: string
  * Return: the length of string
  */
 int _strlen_recursion(char *s)
@@ -14,7 +14,7 @@ return (0);
  * pal_checker - check if string is palindrom or not
  * @i: left index
  * @x: right index
- * @s: string 
+ * @s: string
  * Return: 1 if palindrom 0 if not
  */
 int pal_checker(char *s, int i, int x)
