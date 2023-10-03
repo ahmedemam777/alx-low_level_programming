@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print every argument followed by new line 
+ * main - print every argument followed by new line
  * @argc: arg count 
  * @argv: arguments
  * Return: 0
